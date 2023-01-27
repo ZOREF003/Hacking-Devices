@@ -1,1 +1,36 @@
-# Hacking-Devices
+# <p align="center"> Devices that are used for hacking </p>
+## Flipper Zero
+![](Images/.png)
+#### Flipper Zero is easy-to-use platform for physical computing and IoT (Internet of Things) projects, It is based on the ESP32 microcontroller and has a variety of features, including Wi-Fi, Bluetooth, and a wide range of input/output (I/O) pins for connecting sensors, actuators, and other devices.
+
+### Sub-Ghz
+![](Images/.png)
+#### With its built-in module that can read, store, and imitate remote controls, Flipper Zero can receive and send radio frequencies in the 300-928 MHz range. These controls interface with gates, barriers, radio locks, remote control switches, wireless doorbells, smart lighting, and other devices. Flipper Zero can assist you in determining whether or not your security is compromised.
+
+### 125 kHz RFID
+![](Images/.png) 
+#### Low-frequency (LF) radio frequency identification (RFID) technology, which is used in access control systems, animal chips, and supply chain tracking systems. LF RFID cards, unlike NFC cards (eg: ATM card Chip), do not often provide high levels of security. This technology is available in a variety of forms, including plastic cards, key fobs, tags, wristbands, and animal microchips. The Flipper Zero includes a low-frequency RFID module that can read, save, emulate, and write LF RFID cards. 
+
+### NFC
+![](Images/.png)
+#### NFC technology is used in smart cards for public transportation, access cards or tags, digital business cards, and bank cards. These cards offer encryption, authentication, and full-fledged two-way data transfer via complicated protocols. The Flipper Zero has a 13.56 MHz NFC module that can read, save, and emulate NFC cards.
+
+### Infrared
+![](Images/.png)
+#### It can communicate with products that use infrared light to deliver commands, such as televisions, air conditioners, and multimedia systems. Flipper Zero's built-in Infrared module allows it to learn and remember infrared remotes as well as utilise its own universal remotes to control other devices.
+
+### GPIO
+![](Images/.png)
+#### It may be used to explore hardware, flash firmware, debug, and fuzzing. Flipper Zero can connect to hardware through its GPIO pins, operate hardware via buttons, run code, and display debug messages on the LCD screen. Flipper Zero is also a USB to UART/SPI/I2C converter.
+
+### iButton
+![](Images/.png)
+#### It is compatible with a 1-Wire device communication protocol, which is used in tiny electronic keys known as iButton keys. These keys are used for access control, temperature and humidity readings, cryptographic key storage, and so on. Flipper Zero cannot identify all iButton devices, even if they have the same form factor. Only access control keys may be identified by Flipper Zero. It can read, write, and emulate iButton access control keys with its built-in iButton module, which supports Dallas, Cyfral, and Metakom key protocols.
+
+### Bad USB
+![](Images/.png)
+#### It may function as a BadUSB device, which computers detect as a Human Interface Device (HID), such as a keyboard. A BadUSB device may modify system settings, open backdoors, extract data, launch reverse shells, and do anything else that physical access allows. It is accomplished by the execution of a series of commands written in the Rubber Ducky Scripting Language, commonly known as DuckyScript (A payload is a collection of commands).
+
+### U2F (Universal 2nd Factor)
+![](Images/.png)
+#### Flipper Zero can serve as a USB universal 2nd-factor (U2F) authentication token or security key as the second authentication factor when logging into web accounts. A security key is a little gadget that aids computers in determining who you are when you sign in to an account. Using this option improves the security of your accounts.
