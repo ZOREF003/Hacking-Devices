@@ -2,14 +2,14 @@
 ## Flipper Zero
 ![](HD_Images/Flipper_Zero.png)
 #### Flipper Zero is easy-to-use platform for physical computing and IoT (Internet of Things) projects, It is based on the ESP32 microcontroller and has a variety of features, including Wi-Fi, Bluetooth, and a wide range of input/output (I/O) pins for connecting sensors, actuators, and other devices. The list of highlight things in Flipper Zero are :
-- Sub-Ghz
-- 125 kHz RFID
-- NFC (Near-Field Communication)
-- Infrared
-- GPIO (General Purpose Input/Output)
-- iButton
-- Bad USB
-- U2F (Universal 2nd Factor)
+- **Sub-Ghz**
+- **125 kHz RFID**
+- **NFC (Near-Field Communication)**
+- **Infrared**
+- **GPIO (General Purpose Input/Output)**
+- **iButton**
+- **Bad USB**
+- **U2F (Universal 2nd Factor)**
 
 ### Sub-Ghz
 ![](HD_Images/Flipper_Zero-1.png)
@@ -56,58 +56,58 @@
 - Materials and Parts required to recreate the watch
 
 ### Features in Deauther Watch
-- Wi-Fi Deauthentication: This is the primary feature of the device. It allows users to send deauthentication frames to disconnect devices from a Wi-Fi network.
+- **Wi-Fi Deauthentication:** This is the primary feature of the device. It allows users to send deauthentication frames to disconnect devices from a Wi-Fi network.
 
-- Wi-Fi Scanning: The device can scan nearby Wi-Fi networks and display information about them, such as SSID, channel, encryption type, and signal strength.
+- **Wi-Fi Scanning:** The device can scan nearby Wi-Fi networks and display information about them, such as SSID, channel, encryption type, and signal strength.
 
-- Beacon and Probe Request Frames: The device can send out beacon and probe request frames, which can be used to discover nearby Wi-Fi networks and the devices connected to them.
+- **Beacon and Probe Request Frames:** The device can send out beacon and probe request frames, which can be used to discover nearby Wi-Fi networks and the devices connected to them.
 
-- Display: The device typically has a small OLED or LCD display that can show information about Wi-Fi networks and the device status.
+- **Display:** The device typically has a small OLED or LCD display that can show information about Wi-Fi networks and the device status.
 
-- Battery: Deauther watches are usually equipped with a rechargeable battery, which can provide several hours of continuous use.
+- **Battery:** Deauther watches are usually equipped with a rechargeable battery, which can provide several hours of continuous use.
 
-- USB Connectivity: The device can be connected to a computer via USB, which can be used for charging, flashing new firmware, and uploading Wi-Fi network lists.
+- **USB Connectivity:** The device can be connected to a computer via USB, which can be used for charging, flashing new firmware, and uploading Wi-Fi network lists.
 
-- Firmware Upgrades: Some models allow for firmware upgrades, which can add new features or fix bugs.
+- **Firmware Upgrades:** Some models allow for firmware upgrades, which can add new features or fix bugs.
 
 ### How Deauther Watch used in Penetration Testing
-- Discovery of Hidden SSIDs: A deauther watch can be used to discover hidden SSIDs by sending out a beacon frame with a null SSID. If a hidden network is present, it will respond with its SSID.
+- **Discovery of Hidden SSIDs:** A deauther watch can be used to discover hidden SSIDs by sending out a beacon frame with a null SSID. If a hidden network is present, it will respond with its SSID.
 
-- Testing Client-Side Defenses: A deauther watch can be used to test client-side defenses by sending deauthentication frames to clients and observing how they react. This can help identify vulnerabilities that could be exploited by attackers.
+- **Testing Client-Side Defenses:** A deauther watch can be used to test client-side defenses by sending deauthentication frames to clients and observing how they react. This can help identify vulnerabilities that could be exploited by attackers.
 
-- Testing AP-Side Defenses: A deauther watch can be used to test AP-side defenses by attempting to deauthenticate clients and observing how the AP responds. This can help identify vulnerabilities that could be exploited by attackers.
+- **Testing AP-Side Defenses:** A deauther watch can be used to test AP-side defenses by attempting to deauthenticate clients and observing how the AP responds. This can help identify vulnerabilities that could be exploited by attackers.
 
-- Assessing Signal Strength: A deauther watch can be used to assess the strength of a Wi-Fi signal at various locations. This can help identify weak spots in a network's coverage, which could be exploited by attackers.
+- **Assessing Signal Strength:** A deauther watch can be used to assess the strength of a Wi-Fi signal at various locations. This can help identify weak spots in a network's coverage, which could be exploited by attackers.
 
-- Testing Password Strength: A deauther watch can be used to test the strength of Wi-Fi passwords by attempting to crack them using brute-force attacks or other methods.
+- **Testing Password Strength:** A deauther watch can be used to test the strength of Wi-Fi passwords by attempting to crack them using brute-force attacks or other methods.
 
 ### Attacks that can be performed 
-- Wi-Fi Jamming: A deauther watch may be able to send continuous packets to interfere with the Wi-Fi signal and prevent devices from connecting to the network.
+- **Wi-Fi Jamming:** A deauther watch may be able to send continuous packets to interfere with the Wi-Fi signal and prevent devices from connecting to the network.
 
-- Rogue AP: A deauther watch may be able to create a rogue access point (AP) to intercept traffic and steal data from connected devices.
+- **Rogue AP:** A deauther watch may be able to create a rogue access point (AP) to intercept traffic and steal data from connected devices.
 
-- Evil Twin AP: An evil twin AP is a rogue access point that is designed to look like a legitimate Wi-Fi network. A deauther watch may be able to create an evil twin AP to trick users into connecting and entering their login credentials.
+- **Evil Twin AP:** An evil twin AP is a rogue access point that is designed to look like a legitimate Wi-Fi network. A deauther watch may be able to create an evil twin AP to trick users into connecting and entering their login credentials.
 
-- Wi-Fi Pineapple-style attacks: A deauther watch may be able to perform Wi-Fi Pineapple-style attacks, which involve intercepting and modifying Wi-Fi traffic to steal data or perform man-in-the-middle attacks.
+- **Wi-Fi Pineapple-style attacks:** A deauther watch may be able to perform Wi-Fi Pineapple-style attacks, which involve intercepting and modifying Wi-Fi traffic to steal data or perform man-in-the-middle attacks.
 
 ### Materials and Parts required to recreate the watch
 #### The materials and parts used to make a deauther watch may vary depending on the specific design and manufacturer, but here are some common components that are used:
 
-- Microcontroller: The deauther watch is typically built around a microcontroller such as the ESP8266 or ESP32. The microcontroller is responsible for running the firmware that allows the device to perform deauthentication attacks.
+- **Microcontroller:** The deauther watch is typically built around a microcontroller such as the ESP8266 or ESP32. The microcontroller is responsible for running the firmware that allows the device to perform deauthentication attacks.
 
-- Display: The device usually features a small OLED or LCD display that can show information about Wi-Fi networks and the device status.
+- **Display:** The device usually features a small OLED or LCD display that can show information about Wi-Fi networks and the device status.
 
-- Battery: The deauther watch is powered by a rechargeable battery, typically a lithium-ion battery. The battery should be capable of providing several hours of continuous use.
+- **Battery:** The deauther watch is powered by a rechargeable battery, typically a lithium-ion battery. The battery should be capable of providing several hours of continuous use.
 
-- Charging Circuit: A charging circuit is necessary to charge the device's battery. This circuit may be built into the microcontroller or it may be a separate component.
+- **Charging Circuit:** A charging circuit is necessary to charge the device's battery. This circuit may be built into the microcontroller or it may be a separate component.
 
-- Antenna: The device requires an antenna to transmit Wi-Fi signals. The type of antenna used may vary depending on the design.
+- **Antenna:** The device requires an antenna to transmit Wi-Fi signals. The type of antenna used may vary depending on the design.
 
-- Buttons: The device usually has buttons that can be used to navigate the menu and perform actions such as scanning for Wi-Fi networks and initiating deauthentication attacks.
+- **Buttons:** The device usually has buttons that can be used to navigate the menu and perform actions such as scanning for Wi-Fi networks and initiating deauthentication attacks.
 
-- Case: The device is typically enclosed in a small case that is designed to be worn on the wrist like a watch.
+- **Case:** The device is typically enclosed in a small case that is designed to be worn on the wrist like a watch.
 
-- USB Port: A USB port is usually included for charging the device and for flashing new firmware.
+- **USB Port:** A USB port is usually included for charging the device and for flashing new firmware.
 
 ### Reference 
 - [Flipper Zero Documentation - Flipper Zero — Documentation](https://docs.flipperzero.one/)
