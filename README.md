@@ -43,6 +43,10 @@
 ![](HD_Images/Flipper_Zero-8.png)
 #### Flipper Zero can serve as a USB universal 2nd-factor (U2F) authentication token or security key as the second authentication factor when logging into web accounts. A security key is a little gadget that aids computers in determining who you are when you sign in to an account. Using this option improves the security of your accounts.
 
+## Deauther Watch
+![](HD_Images/watch.png)
+
+
 ### Reference 
 - [Flipper Zero Documentation - Flipper Zero — Documentation](https://docs.flipperzero.one/)
 - [Flipper Zero Hacking Device | Cyber Voyage](https://www.youtube.com/watch?v=lHvWxaV0n54)
