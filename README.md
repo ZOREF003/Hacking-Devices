@@ -48,6 +48,8 @@
   <img src="HD_Images/watch.png" alt="Watch" width="500" height="500">
 </p>
 
+#### Deauther watches are small portable devices that are designed to perform Wi-Fi deauthentication attacks. These devices are typically based on the ESP8266 or ESP32 microcontrollers and can be used to force devices connected to a Wi-Fi network to disconnect from the network. They can also be used by individuals for malicious purposes, such as disrupting Wi-Fi networks or stealing sensitive information.
+
 ### Reference 
 - [Flipper Zero Documentation - Flipper Zero — Documentation](https://docs.flipperzero.one/)
 - [Flipper Zero Hacking Device | Cyber Voyage](https://www.youtube.com/watch?v=lHvWxaV0n54)
