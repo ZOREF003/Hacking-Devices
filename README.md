@@ -45,7 +45,7 @@
 
 ## Deauther Watch
 <p align="center">
-  <img src="HD_Images/watch.png" alt="Watch" width="500" height="300">
+  <img src="HD_Images/watch.png" alt="Watch" width="500" height="500">
 </p>
 
 ### Reference 
