@@ -113,3 +113,4 @@
 - [Flipper Zero Documentation - Flipper Zero — Documentation](https://docs.flipperzero.one/)
 - [Flipper Zero Hacking Device | Cyber Voyage](https://www.youtube.com/watch?v=lHvWxaV0n54)
 - [Flipper Zero Card Hacking | Cyber Voyage](https://www.youtube.com/watch?v=2ienEZwuBd8)
+- [DSTIKE Deauther Watch V3](https://dstike.com/products/dstike-deauther-watch-v3#:~:text=Deauther%20Watch%20is%20still%20an,does%20only%20support%202.4GHz.)
