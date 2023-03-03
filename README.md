@@ -127,6 +127,25 @@ In addition to its hardware and software features, the WiPhone also has several 
 
 The WiPhone is intended to be a flexible and customizable device for security professionals, hackers, and hobbyists. It is not designed to be a mass-market consumer device, and it may require some technical expertise to use and modify.
 
+#### Features of Wiphone 
+- **Raspberry Pi Zero W-based design:** WiPhone is built around the Raspberry Pi Zero W, a small and low-cost computer board that provides WiFi and Bluetooth connectivity.
+
+- **Touchscreen display:** The device features a built-in touchscreen display that provides a graphical user interface for navigating the device.
+
+- **QWERTY keyboard:** The device includes a QWERTY keyboard for text input, which makes it easier to use for tasks like typing messages and commands.
+
+- **Open-source software:** The device runs on Linux-based software that is open-source and can be customized and modified by users.
+
+- **Communication apps:** The device includes several communication apps, including SIP and Matrix, which allow users to make voice and text calls.
+
+- **Security tools:** The device includes a variety of security tools, such as password managers, encryption tools, and network scanners.
+
+- **End-to-end encryption:** The device supports end-to-end encryption for voice and text messages, which helps to protect user privacy.
+
+- **Kill switch:** The device includes a kill switch that can disconnect the microphone, camera, and other sensors to prevent unauthorized access.
+
+- **Portable and compact design:** The device is designed to be portable and compact, which makes it easy to carry and use on the go.
+
 ### Reference 
 - [Flipper Zero Documentation - Flipper Zero — Documentation](https://docs.flipperzero.one/)
 - [Flipper Zero Hacking Device | Cyber Voyage](https://www.youtube.com/watch?v=lHvWxaV0n54)
