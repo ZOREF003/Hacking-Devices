@@ -119,6 +119,14 @@
   <img src="HD_Images/Wiphone-1.png" alt="Watch" width="500" height="500">
 </p>
 
+WiPhone is an open-source mobile device designed for hackers and security researchers. It is essentially a smartphone that runs on the Raspberry Pi Zero W, a small and low-cost computer board that provides WiFi and Bluetooth connectivity. The device is designed to be compact and portable, and it includes a built-in touchscreen display, battery, and a keyboard.
+
+One of the key features of the WiPhone is its open-source software stack. The device runs on Linux-based software that can be customized and modified by users. The device supports a wide range of applications, including communication apps like SIP and Matrix, web browsers, and a variety of security tools.
+
+In addition to its hardware and software features, the WiPhone also has several security-focused features. For example, the device supports end-to-end encryption for voice and text messages, and it includes a kill switch that can disconnect the microphone, camera, and other sensors to prevent unauthorized access.
+
+The WiPhone is intended to be a flexible and customizable device for security professionals, hackers, and hobbyists. It is not designed to be a mass-market consumer device, and it may require some technical expertise to use and modify.
+
 ### Reference 
 - [Flipper Zero Documentation - Flipper Zero — Documentation](https://docs.flipperzero.one/)
 - [Flipper Zero Hacking Device | Cyber Voyage](https://www.youtube.com/watch?v=lHvWxaV0n54)
