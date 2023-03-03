@@ -115,7 +115,9 @@
 --------
 
 ## Wiphone
-
+<p align="center">
+  <img src="HD_Images/Wiphone-1.png" alt="Watch" width="500" height="500">
+</p>
 
 ### Reference 
 - [Flipper Zero Documentation - Flipper Zero — Documentation](https://docs.flipperzero.one/)
