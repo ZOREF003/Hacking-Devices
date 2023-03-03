@@ -176,3 +176,4 @@ WiPhone can be used as a tool for penetration testing, which is the process of i
 - [DSTIKE Deauther Watch V3](https://dstike.com/products/dstike-deauther-watch-v3#:~:text=Deauther%20Watch%20is%20still%20an,does%20only%20support%202.4GHz.)
 - [Use the Deauther Watch Wi-Fi Hacking Wearable [Tutorial]](https://www.youtube.com/watch?v=H0kRS5zR3-w)
 - [The Deauther Watch is the world’s most annoying wearable](https://www.theverge.com/23412661/deauther-watch-wifi-hacking-chip-network-deauthorization-secure-oled)
+- [WiPhone | A Phone YOU Can Own](https://www.wiphone.io/)
