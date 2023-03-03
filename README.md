@@ -12,7 +12,11 @@
 - **U2F (Universal 2nd Factor)**
 
 ### Sub-Ghz
-![](HD_Images/Flipper_Zero-1.png)
+<p align="center">
+  <img src="HD_Images/Flipper_Zero-1.png" width="800" alt="Flipper Zero"/> <br/>
+<h6><i>Source: </i></h6>
+</p> 
+
 #### With its built-in module that can read, store, and imitate remote controls, Flipper Zero can receive and send radio frequencies in the 300-928 MHz range. These controls interface with gates, barriers, radio locks, remote control switches, wireless doorbells, smart lighting, and other devices. Flipper Zero can assist you in determining whether or not your security is compromised.
 
 ### 125 kHz RFID
