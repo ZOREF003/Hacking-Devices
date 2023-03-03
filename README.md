@@ -146,6 +146,29 @@ The WiPhone is intended to be a flexible and customizable device for security pr
 
 - **Portable and compact design:** The device is designed to be portable and compact, which makes it easy to carry and use on the go.
 
+#### How Wiphone can be used for Penetration Testing
+WiPhone can be used as a tool for penetration testing, which is the process of identifying and exploiting vulnerabilities in computer systems and networks. Here are some of the ways in which WiPhone can be used for penetration testing:
+
+- **Wireless network scanning:** WiPhone can be used to scan for wireless networks and identify vulnerabilities in their security configurations. This can include identifying networks with weak passwords, outdated encryption protocols, or other vulnerabilities that can be exploited by attackers.
+
+- **Wireless network exploitation:** Once a vulnerable network has been identified, WiPhone can be used to exploit those vulnerabilities and gain unauthorized access to the network. This can involve techniques like cracking passwords, bypassing authentication, or intercepting and modifying network traffic.
+
+- **Mobile application testing:** WiPhone can be used to test the security of mobile applications by simulating a mobile device and interacting with the application. This can involve techniques like reverse engineering, data interception, and testing for common vulnerabilities like SQL injection and cross-site scripting (XSS).
+
+- **Social engineering:** WiPhone can be used to perform social engineering attacks, which involve manipulating people into divulging sensitive information or performing actions that can compromise security. This can involve techniques like phishing, pretexting, or baiting.
+
+#### Possible attack with Wiphone
+
+- **WiFi deauthentication attacks:** WiPhone can be used to perform deauthentication attacks, which involve sending spoofed deauthentication packets to wireless devices on a network. This can cause devices to disconnect from the network and potentially disrupt network operations.
+
+- **Man-in-the-middle attacks:** WiPhone can be used to perform man-in-the-middle (MITM) attacks, which involve intercepting and modifying network traffic between two parties. This can be used to steal sensitive information or modify data in transit.
+
+- **Denial-of-service (DoS) attacks:** WiPhone can be used to perform DoS attacks, which involve flooding a network or server with traffic or requests in order to overload and disrupt its operations.
+
+- **Bluetooth attacks:** WiPhone can be used to perform Bluetooth attacks, which can involve exploiting vulnerabilities in Bluetooth devices or intercepting and modifying Bluetooth traffic.
+
+- **RFID attacks:** WiPhone can be used to perform attacks on radio frequency identification (RFID) systems, which can involve intercepting and modifying RFID signals or cloning RFID tags.
+
 ### Reference 
 - [Flipper Zero Documentation - Flipper Zero — Documentation](https://docs.flipperzero.one/)
 - [Flipper Zero Hacking Device | Cyber Voyage](https://www.youtube.com/watch?v=lHvWxaV0n54)
