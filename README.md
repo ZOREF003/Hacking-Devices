@@ -153,7 +153,8 @@
 
 ## Wiphone
 <p align="center">
-  <img src="HD_Images/Wiphone-1.png" alt="Watch" width="500" height="500">
+  <img src="HD_Images/Wiphone-1.png" alt="Watch" width="500" height="500"> <br/>
+<h6><i>Source: Retrieved from https://www.kickstarter.com/projects/2103809433/wiphone-a-phone-for-hackers-and-makers</i></h6>
 </p>
 
 WiPhone is an open-source mobile device designed for hackers and security researchers. It is essentially a smartphone that runs on the Raspberry Pi Zero W, a small and low-cost computer board that provides WiFi and Bluetooth connectivity. The device is designed to be compact and portable, and it includes a built-in touchscreen display, battery, and a keyboard.
