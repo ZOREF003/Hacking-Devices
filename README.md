@@ -1,6 +1,9 @@
 # <p align="center"> Devices that are used for hacking </p>
 ## Flipper Zero
-![](HD_Images/Flipper_Zero.png)
+<p align="center">
+  <img src="HD_Images/Flipper_Zero.png" width="800" alt="Flipper Zero"/> <br/>
+<h6><i>Source: Flipper Zero: 'Can you really hack Wi-Fi networks?' and other questions answered | ZDNET. Retrieved from https://www.zdnet.com/home-and-office/flipper-zero-can-you-really-hack-wi-fi-networks-and-other-questions-answered/</i></h6>
+</p>
 #### Flipper Zero is easy-to-use platform for physical computing and IoT (Internet of Things) projects, It is based on the ESP32 microcontroller and has a variety of features, including Wi-Fi, Bluetooth, and a wide range of input/output (I/O) pins for connecting sensors, actuators, and other devices. The list of highlight things in Flipper Zero are :
 - **Sub-Ghz**
 - **125 kHz RFID**
