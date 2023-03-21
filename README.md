@@ -213,7 +213,7 @@ WiPhone can be used as a tool for penetration testing, which is the process of i
 
 <p align="center">
   <img src="HD_Images/Digispark.png" alt="Watch" width="500" height="500"> <br/>
-<h6><i>Source: Retrieved from https://</i></h6>
+<h6><i>Source: Retrieved from https://www.instructables.com/Digispark-Attiny-85-With-Arduino-IDE/</i></h6>
 </p>
 
 Digispark Attiny85 is a tiny, low-cost development board based on the ATtiny85 microcontroller from Atmel. It was designed to be an easy-to-use platform for DIY projects, prototypes, and educational purposes. Despite its small size, it has all the necessary components to create a simple microcontroller-based project.
@@ -252,11 +252,46 @@ HID attacks, also known as "USB rubber ducky" attacks, use a device that emulate
 
 #### How Rubber Ducky Attacks works here
 
+Rubber Ducky Attacks are a specific type of HID attack that use a device that emulates a keyboard and executes predefined keystrokes to exploit vulnerabilities on a target machine. The Digispark Attiny85 can be used as a Rubber Ducky device by programming it to act as a keyboard and send pre-defined keystrokes to a target computer. Rubber Ducky Attacks can be an effective way to bypass security controls and exploit vulnerabilities on a target machine.
+
 #### How Wireless Attacks works here
 
+The Digispark Attiny85 can be used for wireless attacks when combined with additional hardware components, such as a wireless module or antenna. Here's a brief overview of how wireless attacks with Digispark Attiny85 can work:
+
+- The attacker connects a wireless module or antenna to the Digispark Attiny85 to enable wireless communication.
+
+- The attacker loads a payload onto the Digispark Attiny85 that contains code for conducting a wireless attack, such as packet sniffing or injection.
+
+- The Digispark Attiny85 is placed in a location where it can intercept or manipulate wireless traffic, such as near a wireless access point or target device.
+
+- The payload code executes and begins to intercept or manipulate wireless traffic as programmed.
+
+- Depending on the payload code and the type of wireless attack being conducted, the attacker may be able to eavesdrop on wireless communications, steal sensitive information, or gain unauthorized access to a wireless network.
+
 #### How Physical Security Testing works here
+The Digispark Attiny85 can be used for physical security testing by simulating physical actions that can compromise the security of a target system. Here's an overview of how physical security testing with the Digispark Attiny85 can work:
+
+- The attacker loads a payload onto the Digispark Attiny85 that contains code for simulating physical actions, such as opening a locked door or disabling an alarm system.
+
+- The Digispark Attiny85 is connected to the target system using a physical interface, such as a USB port.
+
+- The payload code executes and simulates the physical action as programmed.
+
+- Depending on the payload code and the type of physical action being simulated, the attacker may be able to bypass physical security controls, gain unauthorized access to a system, or steal sensitive information.
+
+Examples of physical security testing scenarios that could be simulated with the Digispark Attiny85 include unlocking a locked computer, disabling an alarm system, or bypassing a physical access control system.
 
 #### How Social Engineering works here
+
+The Digispark Attiny85 can be used as a tool in social engineering attacks, where the attacker manipulates individuals to disclose sensitive information or perform actions that can compromise security. Here's an overview of how social engineering attacks with the Digispark Attiny85 can work:
+
+- The attacker loads a payload onto the Digispark Attiny85 that contains code for social engineering tactics, such as phishing or pretexting.
+
+- The Digispark Attiny85 is used to create a pretext, such as posing as an IT administrator, to deceive the victim into disclosing sensitive information or performing an action that compromises security.
+
+- Depending on the payload code and the social engineering tactics being used, the attacker may be able to steal passwords or other sensitive information, gain unauthorized access to a system, or install malware.
+
+Examples of social engineering attacks that could be conducted with the Digispark Attiny85 include posing as an IT administrator to obtain login credentials, sending a phishing email with a malicious attachment, or using pretexting to obtain sensitive information from a victim.
 
 ### Reference 
 - [Flipper Zero Documentation - Flipper Zero — Documentation](https://docs.flipperzero.one/)
@@ -266,3 +301,6 @@ HID attacks, also known as "USB rubber ducky" attacks, use a device that emulate
 - [Use the Deauther Watch Wi-Fi Hacking Wearable [Tutorial]](https://www.youtube.com/watch?v=H0kRS5zR3-w)
 - [The Deauther Watch is the world’s most annoying wearable](https://www.theverge.com/23412661/deauther-watch-wifi-hacking-chip-network-deauthorization-secure-oled)
 - [WiPhone | A Phone YOU Can Own](https://www.wiphone.io/)
+- [RubberDucky like payloads for DigiSpark Attiny85](https://github.com/MTK911/Attiny85)
+- [steal all wifi passwords using digispark attiny85](https://ethicalhackergopikrishna.com/steal-all-wifi-passwords-using-digispark-attiny85/)
+- [digispark-scripts](https://github.com/topics/digispark-scripts)
