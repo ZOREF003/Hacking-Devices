@@ -293,6 +293,40 @@ The Digispark Attiny85 can be used as a tool in social engineering attacks, wher
 
 Examples of social engineering attacks that could be conducted with the Digispark Attiny85 include posing as an IT administrator to obtain login credentials, sending a phishing email with a malicious attachment, or using pretexting to obtain sensitive information from a victim.
 
+--------------------
+
+## BadUSB
+<p align="center">
+  <img src="HD_Images/BadUSB.png" alt="Watch" width="500" height="500"> <br/>
+<h6><i>Source: Retrieved from https://</i></h6>
+</p>
+
+BadUSB refers to a type of attack that exploits a vulnerability in the USB (Universal Serial Bus) protocol, allowing an attacker to inject malicious code into a USB device such as a flash drive, keyboard, or mouse. This attack is particularly dangerous because it can be carried out using commonly available hardware, and can be difficult to detect and defend against.
+
+The attack works by reprogramming the microcontroller on the USB device to act as a keyboard, for example, and then sending a series of keystrokes that trigger the execution of the attacker's malicious code. The attacker can then take control of the victim's computer, steal sensitive information, or carry out other nefarious activities.
+
+BadUSB attacks can be carried out in a number of ways, including via social engineering tactics like leaving infected USB devices in public places, or by exploiting vulnerabilities in USB firmware or device drivers. To protect against BadUSB attacks, it is recommended to only use trusted USB devices and to keep anti-virus software up to date.
+
+#### Penetration testing using BadUSB
+
+Penetration testing is the practice of assessing the security of a computer system or network by simulating an attack by a malicious actor. BadUSB can be used as a tool in penetration testing to test the security of USB devices and the systems they are connected to.
+
+Penetration testers can use BadUSB to simulate an attack and see how the system or network responds. This can help identify vulnerabilities that need to be addressed, such as insecure USB device firmware or outdated device drivers.
+
+Penetration testers can also use BadUSB to test the effectiveness of security measures such as endpoint protection and firewalls. By simulating an attack and attempting to execute malicious code, penetration testers can assess whether these measures are effective in detecting and blocking such attacks.
+
+It is important to note that using BadUSB in penetration testing should only be done with the explicit permission of the system owner or administrator, and with appropriate safeguards in place to prevent damage to the system or data loss. Penetration testing should always be carried out ethically and in accordance with industry best practices.
+
+#### BadUSB Features
+
+#### Attacks used in BadUSB
+
+#### Real-time attacks done using BadUSB
+
+#### Scripts used in BadUSB
+
+#### Difference between Digispark attiny85 and BadUSB
+
 ### Reference 
 - [Flipper Zero Documentation - Flipper Zero — Documentation](https://docs.flipperzero.one/)
 - [Flipper Zero Hacking Device | Cyber Voyage](https://www.youtube.com/watch?v=lHvWxaV0n54)
