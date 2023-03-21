@@ -297,8 +297,8 @@ Examples of social engineering attacks that could be conducted with the Digispar
 
 ## BadUSB
 <p align="center">
-  <img src="HD_Images/BadUSB.png" alt="Watch" width="700" height="700"> <br/>
-<h6><i>Source: Retrieved from https://</i></h6>
+  <img src="HD_Images/BadUSB.png" alt="Watch" width="800" height="800"> <br/>
+<h6><i>Source: Retrieved from https://www.zdnet.com/article/rare-badusb-attack-detected-in-the-wild-against-us-hospitality-provider/</i></h6>
 </p>
 
 BadUSB refers to a type of attack that exploits a vulnerability in the USB (Universal Serial Bus) protocol, allowing an attacker to inject malicious code into a USB device such as a flash drive, keyboard, or mouse. This attack is particularly dangerous because it can be carried out using commonly available hardware, and can be difficult to detect and defend against.
