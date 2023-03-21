@@ -297,7 +297,7 @@ Examples of social engineering attacks that could be conducted with the Digispar
 
 ## BadUSB
 <p align="center">
-  <img src="HD_Images/BadUSB.png" alt="Watch" width="500" height="500"> <br/>
+  <img src="HD_Images/BadUSB.png" alt="Watch" width="700" height="700"> <br/>
 <h6><i>Source: Retrieved from https://</i></h6>
 </p>
 
