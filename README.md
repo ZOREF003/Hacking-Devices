@@ -325,7 +325,31 @@ It is important to note that using BadUSB in penetration testing should only be 
 
 #### Scripts used in BadUSB
 
+The specific scripts used in BadUSB attacks can vary depending on the attacker's goals and the USB device being used. However, some common types of scripts used in BadUSB attacks include:
+
+- **HID (Human Interface Device) scripts:** HID scripts are used to simulate keystrokes and mouse movements, allowing attackers to carry out actions on the victim's system. These scripts can be used to execute commands, steal data, or carry out other malicious activities.
+
+- **Shell scripts:** Shell scripts are used to execute commands on the victim's system. Attackers can use these scripts to download and install malware, create backdoors, or carry out other types of attacks.
+
+- **PowerShell scripts:** PowerShell is a scripting language used on Windows systems, and attackers can use PowerShell scripts to execute commands, download and install malware, and carry out other types of attacks.
+
+- **JavaScript:** JavaScript can be used to execute code within a web browser, and attackers can use this to exploit vulnerabilities in the browser or steal data from the victim's system.
+
+- **Batch scripts:** Batch scripts are used to automate tasks on Windows systems, and attackers can use these scripts to execute commands, download and install malware, and carry out other types of attacks.
+
 #### Difference between Digispark attiny85 and BadUSB
+
+The Digispark ATtiny85 and BadUSB are both types of USB devices that can be used for malicious purposes. However, there are some differences between the two:
+
+- Functionality: The Digispark ATtiny85 is a small USB development board that can be programmed to perform a variety of functions, including acting as a keyboard, mouse, or game controller. BadUSB, on the other hand, refers specifically to a type of attack that uses a USB device to execute malicious code.
+
+- Programmability: The Digispark ATtiny85 is designed to be programmed by the user, allowing for customization of its functionality. BadUSB, on the other hand, involves reprogramming a USB device that has already been manufactured in order to execute malicious code.
+
+- Accessibility: The Digispark ATtiny85 is a readily available development board that can be purchased and programmed by anyone, while BadUSB requires knowledge of USB device programming and firmware vulnerabilities.
+
+- Legality: The use of the Digispark ATtiny85 for malicious purposes is illegal, but the device itself is not illegal to own or use. BadUSB attacks, on the other hand, are illegal and can result in serious consequences for the attacker.
+
+Overall, while the Digispark ATtiny85 and BadUSB share some similarities in terms of their ability to perform malicious activities, they are fundamentally different in terms of their design and purpose. The Digispark ATtiny85 is a legitimate development board that can be used for a variety of purposes, while BadUSB is a type of attack that exploits vulnerabilities in USB devices to carry out malicious activities.
 
 ### Reference 
 - [Flipper Zero Documentation - Flipper Zero — Documentation](https://docs.flipperzero.one/)
