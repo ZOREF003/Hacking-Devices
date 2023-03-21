@@ -319,9 +319,43 @@ It is important to note that using BadUSB in penetration testing should only be 
 
 #### BadUSB Features
 
+The features of BadUSB vary depending on the specific attack and the capabilities of the USB device being used. However, some common features of BadUSB attacks include:
+
+- Programmability: One of the key features of BadUSB is that it allows attackers to reprogram the microcontroller on the USB device to execute malicious code. This makes it possible for attackers to bypass security measures and gain access to a system or network.
+
+- Stealth: BadUSB attacks can be difficult to detect, as they often appear as a normal USB device to the system. This means that attackers can carry out their activities without raising suspicion.
+
+- Persistence: Once the USB device has been infected with malicious code, the code can remain on the device even after it is removed from the system. This means that attackers can continue to access the system even if the USB device is no longer connected.
+
+- Versatility: BadUSB attacks can be carried out using a wide range of USB devices, including flash drives, keyboards, and mice. This makes it possible for attackers to choose the type of device that is most likely to succeed in a given scenario.
+
+- Exploitability: BadUSB attacks can be carried out using a variety of techniques, including social engineering, firmware vulnerabilities, and USB device driver vulnerabilities. This means that attackers have multiple avenues to exploit, increasing the chances of a successful attack.
+
 #### Attacks used in BadUSB
 
+BadUSB attacks can be carried out using various techniques, including:
+
+- **Social engineering:** This is a common technique used in BadUSB attacks, where attackers leave infected USB devices in public places or send them to victims via email or other means. When victims plug in the infected device, the malicious code is executed, giving the attacker access to the victim's system.
+
+- **Firmware vulnerabilities:** Some USB devices have vulnerabilities in their firmware that can be exploited by attackers to execute malicious code. Attackers can use tools to modify the firmware on the USB device, making it appear as a legitimate device while carrying out malicious activities.
+
+- **USB device driver vulnerabilities:** USB device drivers can also have vulnerabilities that can be exploited by attackers to execute malicious code. Attackers can create a fake USB device that appears as a legitimate device to the system, but is actually carrying out malicious activities.
+
+- **Man-in-the-middle attacks:** In a man-in-the-middle attack, the attacker intercepts the communication between the USB device and the system, allowing them to execute malicious code or steal data.
+
+- **Denial-of-service attacks:** BadUSB can also be used to carry out denial-of-service attacks, where the USB device floods the system with data, causing it to crash or become unresponsive.
+
 #### Real-time attacks done using BadUSB
+
+- **USBdriveby:** This attack, developed by security researcher Samy Kamkar in 2014, involved using a modified USB device to execute a JavaScript payload on the victim's system when the device was plugged in. The JavaScript would then connect to a remote server controlled by the attacker, giving them access to the victim's system.
+
+- **Rubber Ducky:** The Rubber Ducky is a popular BadUSB device that looks like a regular USB flash drive but can be programmed to simulate keyboard input. Attackers can use the Rubber Ducky to execute commands, download and install malware, and carry out other types of attacks.
+
+- **PoisonTap:** Developed by security researcher Samy Kamkar in 2016, PoisonTap is a BadUSB attack that exploits the way web browsers handle cached data. When the device is plugged into the victim's system, it emulates a network device, and when the victim's browser tries to access a web page, the PoisonTap device intercepts the request and injects malicious code into the browser's cache. This allows the attacker to access sensitive data, such as cookies or session tokens.
+
+- **USBHarpoon:** USBHarpoon is a BadUSB attack developed by the security firm Praetorian in 2019. It involves a modified USB cable that contains a wireless radio transmitter, allowing the attacker to remotely access the victim's system after the device is plugged in.
+
+These are just a few examples of real-time attacks carried out using BadUSB. The use of BadUSB continues to be a significant threat to the security of USB devices and systems, and it is crucial to take measures to protect against these types of attacks.
 
 #### Scripts used in BadUSB
 
@@ -362,3 +396,5 @@ Overall, while the Digispark ATtiny85 and BadUSB share some similarities in term
 - [RubberDucky like payloads for DigiSpark Attiny85](https://github.com/MTK911/Attiny85)
 - [steal all wifi passwords using digispark attiny85](https://ethicalhackergopikrishna.com/steal-all-wifi-passwords-using-digispark-attiny85/)
 - [digispark-scripts](https://github.com/topics/digispark-scripts)
+- [BadUSB_Github](https://github.com/topics/badusb)
+- [BadUSB](https://github.com/wangwei39120157028/BadUSB)
