@@ -207,6 +207,57 @@ WiPhone can be used as a tool for penetration testing, which is the process of i
 
 - **RFID attacks:** WiPhone can be used to perform attacks on radio frequency identification (RFID) systems, which can involve intercepting and modifying RFID signals or cloning RFID tags.
 
+------------
+
+## Digispark Attiny85
+
+<p align="center">
+  <img src="HD_Images/Digispark.png" alt="Watch" width="500" height="500"> <br/>
+<h6><i>Source: Retrieved from https://</i></h6>
+</p>
+
+Digispark Attiny85 is a tiny, low-cost development board based on the ATtiny85 microcontroller from Atmel. It was designed to be an easy-to-use platform for DIY projects, prototypes, and educational purposes. Despite its small size, it has all the necessary components to create a simple microcontroller-based project.
+
+The ATtiny85 microcontroller has 8 KB of flash memory for program storage, 512 bytes of SRAM for data storage, and 6 input/output (I/O) pins. The Digispark Attiny85 board also includes a USB port, a voltage regulator, an LED, and a reset button.
+
+The USB port is used for both programming and power supply. To program the ATtiny85, you need to connect the board to your computer using a USB cable and use the Arduino IDE with the Digispark package installed. The voltage regulator on the board can accept input voltages ranging from 5V to 12V DC, which makes it compatible with various power sources.
+
+The LED on the board is connected to pin 1 of the ATtiny85 and can be used for basic visual feedback. The reset button on the board is used to restart the program running on the ATtiny85.
+
+#### How Digispark Attiny85 can be used for Penetration Testing
+
+- **HID Attacks:** The Digispark Attiny85 can be programmed to emulate a keyboard and mouse, which can be used to perform a variety of HID attacks. For example, it can be programmed to automatically enter commands, steal data, or install malware on a target machine.
+
+- **Rubber Ducky Attacks:** The Digispark Attiny85 can be used to perform rubber ducky attacks, which involve inserting a USB device that emulates a keyboard and executes predefined keystrokes to exploit vulnerabilities on a target machine.
+
+- **Wireless Attacks:** The Digispark Attiny85 can be used to create a small wireless access point that can be used to perform various wireless attacks, such as deauthentication attacks, man-in-the-middle attacks, and rogue access point attacks.
+
+- **Physical Security Testing:** The Digispark Attiny85 can be used to test physical security controls, such as door locks and alarms, by emulating an access card or badge.
+
+- **Social Engineering:** The Digispark Attiny85 can be used as part of a social engineering attack, such as leaving a USB device with malware in a public area to entice someone to insert it into their computer.
+
+#### How HID Attacks works here
+
+HID attacks, also known as "USB rubber ducky" attacks, use a device that emulates a human interface device (HID), such as a keyboard or mouse, to send a series of keystrokes to a target computer. The Digispark Attiny85 can be programmed to perform HID attacks by emulating a keyboard or mouse and sending pre-defined keystrokes or mouse movements to the target computer. Here is a example of how a HID attack could work using the Digispark Attiny85:
+
+- An attacker creates a payload script that contains a series of keystrokes or mouse movements that will be executed on the target computer.
+
+- The attacker loads the payload script onto the Digispark Attiny85 and connects it to the target computer using a USB cable.
+
+- When the Digispark Attiny85 is plugged into the target computer, it appears as a keyboard or mouse to the operating system.
+
+- The Digispark Attiny85 then executes the payload script by sending a series of keystrokes or mouse movements to the target computer.
+
+- Depending on the payload script, the attack could do things like open a backdoor, install malware, steal data, or execute other malicious actions.
+
+#### How Rubber Ducky Attacks works here
+
+#### How Wireless Attacks works here
+
+#### How Physical Security Testing works here
+
+#### How Social Engineering works here
+
 ### Reference 
 - [Flipper Zero Documentation - Flipper Zero — Documentation](https://docs.flipperzero.one/)
 - [Flipper Zero Hacking Device | Cyber Voyage](https://www.youtube.com/watch?v=lHvWxaV0n54)
